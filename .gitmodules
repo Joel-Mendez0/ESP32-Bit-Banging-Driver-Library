@@ -4,3 +4,6 @@
 [submodule "Bit-Banged-UART"]
 	path = Bit-Banged-UART
 	url = https://github.com/Joel-Mendez0/Bit-Banged-UART.git
+[submodule "SPI-Bit-Banging-ESP32"]
+	path = SPI-Bit-Banging-ESP32
+	url = https://github.com/Joel-Mendez0/SPI-Bit-Banging-ESP32.git
